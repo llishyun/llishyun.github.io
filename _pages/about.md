@@ -33,5 +33,7 @@ My primary research interest is Embodied AI, focusing on intelligent systems tha
 
 Ultimately, I aim to design machines that understand and interact with the world in a human-like manner.
 
+---
+
 E-mail : llishyun@postech.ac.kr
 

@@ -24,8 +24,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+
+
 I am an M.S. student at POSTECH, South Korea, advised by Prof. Minsu Cho at CVLab.
 
 My primary research interest is Embodied AI, focusing on intelligent systems that interact with the physical world. To enable such embodied intelligence, I leverage Generative AI and 3D Computer Vision as core foundations.
 
 Ultimately, I aim to design machines that understand and interact with the world in a human-like manner.
+
+E-mail : llishyun@postech.ac.kr
+

@@ -26,6 +26,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a graduate student at POSTECH CVLab working at the intersection of Generative AI, Embodied AI, and 3D Computer Vision.
+I am an M.S. student at POSTECH, South Korea, advised by Prof. Minsu Cho at CVLab.
 
-My research focuses on multi-view 3D reconstruction, generative 3D modeling, and simulation-based learning. I am particularly interested in developing physically grounded AI systems that connect perception, world modeling, and robotic manipulation.
+My primary research interest is Embodied AI, focusing on intelligent systems that interact with the physical world. To enable such embodied intelligence, I leverage Generative AI and 3D Computer Vision as core foundations.
+
+Specifically, I work on multi-view 3D reconstruction, generative 3D modeling, and simulation-based learning to develop physically grounded AI systems that connect perception, world modeling, and action.
+
+Ultimately, I aim to design machines that understand and interact with the world in a human-like manner.

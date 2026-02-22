@@ -27,7 +27,7 @@ latest_posts:
 
 
 
-I am an M.S. student at POSTECH, South Korea, advised by Prof. Minsu Cho at CVLab.
+I am an M.S. student at POSTECH, South Korea, advised by Prof. Minsu Cho at Computer Vision Lab.
 
 My primary research interest is Embodied AI, focusing on intelligent systems that interact with the physical world. To enable such embodied intelligence, I leverage Generative AI and 3D Computer Vision as core foundations.
 

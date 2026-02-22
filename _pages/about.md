@@ -36,6 +36,6 @@ Ultimately, I aim to design machines that understand and interact with the world
 
 ---
 
-E-mail : [llishyun@postech.ac.kr](mailto:llishyun@postech.ac.kr)
+Email : [llishyun@postech.ac.kr](mailto:llishyun@postech.ac.kr)
 
 

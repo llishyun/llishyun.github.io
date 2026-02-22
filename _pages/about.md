@@ -26,6 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a graduate student at POSTECH CVLab working on 3D computer vision and robotics.
+I am a graduate student at POSTECH CVLab working at the intersection of Generative AI, Embodied AI, and 3D Computer Vision.
 
-My research interests include multi-view 3D reconstruction, generative 3D models, and simulation-based learning. I am particularly interested in building physically grounded AI systems that connect perception, world models, and manipulation.
+My research focuses on multi-view 3D reconstruction, generative 3D modeling, and simulation-based learning. I am particularly interested in developing physically grounded AI systems that connect perception, world modeling, and robotic manipulation.

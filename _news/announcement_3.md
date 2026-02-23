@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨ FreeAction is accepted to CoRL 2025 LSRW workshop
+FreeAction is accepted to CoRL 2025 LSRW workshop ✨

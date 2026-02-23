@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨ Affostruction is accepted to CVPR 2026.
+Affostruction is accepted to CVPR 2026 ✨

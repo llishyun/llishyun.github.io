@@ -388,7 +388,7 @@ ninja.data = [{
           title: '✨ FreeAction is accepted to CoRL 2025 LSRW workshop',
           description: "",
           section: "News",},{id: "news-affostruction-is-accepted-to-cvpr-2026",
-          title: '✨ Affostruction is accepted to CVPR 2026.',
+          title: 'Affostruction is accepted to CVPR 2026 ✨',
           description: "",
           section: "News",},{id: "news-joined-postech-cvlab-as-a-graduate-student",
           title: 'Joined POSTECH CVLab as a graduate student 👩‍🎓',

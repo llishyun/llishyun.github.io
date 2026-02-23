@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined POSTECH CVLab as a graduate student 👩‍🎓
+👩‍🎓 Joined POSTECH CVLab as a graduate student 

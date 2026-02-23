@@ -391,7 +391,7 @@ ninja.data = [{
           title: '✨ Affostruction is accepted to CVPR 2026',
           description: "",
           section: "News",},{id: "news-joined-postech-cvlab-as-a-graduate-student",
-          title: 'Joined POSTECH CVLab as a graduate student 👩‍🎓',
+          title: '👩‍🎓 Joined POSTECH CVLab as a graduate student',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

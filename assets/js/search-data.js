@@ -385,7 +385,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-freeaction-is-accepted-to-corl-2025-lsrw-workshop",
-          title: 'FreeAction is accepted to CoRL 2025 LSRW workshop ✨',
+          title: '✨ FreeAction is accepted to CoRL 2025 LSRW workshop',
           description: "",
           section: "News",},{id: "news-affostruction-is-accepted-to-cvpr-2026",
           title: 'Affostruction is accepted to CVPR 2026 ✨',

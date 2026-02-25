@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨ CountSteer is accepted to AAAI 2025 RSD workshop👥
+✨ CountSteer is accepted to AAAI 2025 RSD workshop

@@ -388,7 +388,7 @@ ninja.data = [{
           title: '✨ FreeAction is accepted to CoRL 2025 LSRW workshop',
           description: "",
           section: "News",},{id: "news-countsteer-is-accepted-to-aaai-2025-rsd-workshop",
-          title: '✨ CountSteer is accepted to AAAI 2025 RSD workshop',
+          title: '✨ CountSteer is accepted to AAAI 2025 RSD workshop👥',
           description: "",
           section: "News",},{id: "news-affostruction-is-accepted-to-cvpr-2026",
           title: '✨ Affostruction is accepted to CVPR 2026',
